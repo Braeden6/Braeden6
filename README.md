@@ -18,9 +18,9 @@ My work is divided into two main areas:
 
 I'm a staunch believer in learning through doing, and to this end, I maintain a couple of side projects:
 
-[**Personal Website:**](https://braedensconsulting.com/) This project is a personal website featuring a resume builder and a map tool for visualizing global datasets. It also hosts my resume and has an inbuilt login system for data security. The entire data flow is managed using a custom-developed database.
+[**Personal Website:**](https://braedensconsulting.com/) This project is a personal website featuring a resume builder and a map tool for visualizing global datasets. It also hosts my resume and has an inbuilt login system for data security. The entire data flow is managed using a custom-developed database. All open source, [here](https://github.com/Braeden6/my-website).
 
-[**The Programming Lab:**](https://theprogramminglab.com/) A platform designed for budding web developers to collaborate and deploy their own web applications. The Lab offers a login system, template code, auto-deployment, and various other development tools to encourage user collaboration and learning.
+[**The Programming Lab:**](https://theprogramminglab.com/) A platform designed for budding web developers to collaborate and deploy their own web applications. The Lab offers a login system, template code, auto-deployment, and various other development tools to encourage user collaboration and learning. All open source, [here](https://github.com/orgs/The-Programming-Lab/repositories).
 
 ### **💡 Interests**
 
